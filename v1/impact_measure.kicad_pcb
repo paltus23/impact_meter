@@ -360,6 +360,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "11ac615d-f7f6-40e1-b570-ae4906b07ab0")
 		(at 98.8 57.4)
@@ -369,7 +370,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "70567758-5a96-4f36-902f-1826eded1d9d")
+			(uuid "ecc5cce2-5d31-40be-8daa-691728447a62")
 			(effects
 				(font
 					(size 1 1)
@@ -380,7 +381,7 @@
 		(property "Value" "MountingHole"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(uuid "0578ab2a-898a-4817-8fa6-d80fee5227b7")
+			(uuid "2f4a148d-d937-4666-9202-60612cfd8d91")
 			(effects
 				(font
 					(size 1 1)
@@ -392,7 +393,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c2c4f13-3502-4c0f-b6eb-9f1ddf53481b")
+			(uuid "90b8f5c3-f828-4aa8-88e1-7c02b7ffac71")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -404,7 +405,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cc81f11-8b03-4af8-a586-615f8cbdc831")
+			(uuid "076229b3-f2db-43a9-a4fd-777504ee71ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12721,6 +12722,28 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 98.8 57.4)
+		(end 100.7 55.6)
+		(stroke
+			(width 1.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Mask")
+		(uuid "5a421465-f019-4bb0-a022-a60a0eb1b2a6")
+	)
+	(gr_circle
+		(center 98.8 57.4)
+		(end 100.7 55.6)
+		(stroke
+			(width 1.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Paste")
+		(uuid "5af7be0b-68b4-4586-bccc-943c054b142a")
+	)
 	(gr_rect
 		(start 75.1 43.6)
 		(end 105.7 64.1)
@@ -13511,7 +13534,7 @@
 		(uuid "4e7f213f-61b2-4dc0-aaaf-fd4caf6e5531")
 	)
 	(via
-		(at 97.1 59.5)
+		(at 97.2 59.3)
 		(size 0.4)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -13757,7 +13780,7 @@
 		(uuid "bbcf3648-8bc3-4dad-8918-0f3381bdcb65")
 	)
 	(via
-		(at 98.2 59.6)
+		(at 98 59.8)
 		(size 0.4)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
