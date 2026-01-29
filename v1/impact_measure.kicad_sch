@@ -10745,7 +10745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Local:LGA_CC-14-1_ADI"
+		(property "Footprint" "Local:LGA_CC-14-1_ADXL375"
 			(at 250.19 191.77 0)
 			(effects
 				(font

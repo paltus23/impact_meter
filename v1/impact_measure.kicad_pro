@@ -60,7 +60,7 @@
         {
           "gap": 0.1,
           "via_gap": 0.1,
-          "width": 0.1
+          "width": 0.2
         }
       ],
       "drc_exclusions": [],
@@ -196,6 +196,7 @@
         0.1,
         0.2,
         0.3,
+        0.35,
         1.0
       ],
       "tuning_pattern_settings": {
