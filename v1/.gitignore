@@ -2,3 +2,4 @@ fabric/
 impact_measure-backups/
 *.lck
 fp-info-cache
+*old
