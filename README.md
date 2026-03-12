@@ -1,4 +1,4 @@
-Device Description
+## Device Description
 
 * The accelerometer board is based on the ESP32-C3FH4 microcontroller and the ADXL375 accelerometer.
 * The device can be powered either from a battery or via USB. When USB is connected, the battery is automaticly disconnected over MOSFET.
