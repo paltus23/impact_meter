@@ -6,4 +6,15 @@ Device Description
 * A spare UART port is available for firmware flashing and debugging.
 * Several additional GPIOs are brought out to test points for possible future use.
 * Communication is performed via Wi-Fi.
-* Data recording and data transmission are performed at different times (not simultaneously).
+* Recording and transmission of data are intended to be carried out at different times (not simultaneously).
+
+
+Impact meter v1
+There is few photos of ready device
+![photo1](images/impact_meter_v1_1.png)
+![photo2](images/impact_meter_v1_2.png)
+
+v1 known issues
+3.3 V power supply do not connected to ESP32
+
+![power issue](images/impact_meter_v1_power_issue.png)
